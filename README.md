@@ -1,1 +1,1 @@
-[![stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=11154&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&hide=Text&cache_seconds=0&langs_count=8&layout=compact)]()
+[![stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=11154&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&hide=Text,Other,Makefile,Markdown,Objective-C,INI,Bash&cache_seconds=0&langs_count=6&layout=compact)](https://github.com/anton2026gamca)
